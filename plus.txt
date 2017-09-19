@@ -24,3 +24,5 @@ superior
 favorable
 astronomical
 rising
+extra
+recent
